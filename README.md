@@ -95,22 +95,22 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/30.%20Unit%203%20-%20Lesson%205)
 
 ## 31. Unit 3 - Lesson 6
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/31.%20Unit%203%20-%20Lesson%206.md)
 
 ## 32. Unit 3 - Lesson 7
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/32.%20Unit%203%20-%20Lesson%207.md)
 
 ## 33. Unit 3 - Lesson 8
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/33.%20Unit%203%20-%20Lesson%208.md)
 
 ## 40. Unit 4 - Lesson 1
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/40.%20Unit%204%20-%20Lesson%201.md)
 
 ## 41. Unit 4 - Lesson 2
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/41.%20Unit%204%20-%20Lesson%202.md)
 
 ## 42. Unit 4 - Lesson 3
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/42.%20Unit%204%20-%20Lesson%203.md)
 
 ## 43. Unit 4 - Lesson 4
 [``Solution``]()
