@@ -71,13 +71,13 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/22.%20Unit%202%20-%20Lesson%209.md)
 
 ## 23. Unit 2 - Lesson 10
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/23.%20Unit%202%20-%20Lesson%2010.md)
 
 ## 24. Unit 2 - Lesson 11
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/24.%20Unit%202%20-%20Lesson%2011.md)
 
 ## 25. Unit 2 - Lesson 12
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/25.%20Unit%202%20-%20Lesson%2012.md)
 
 ## 26. Unit 3 - Lesson 1
 [``Solution``]()
