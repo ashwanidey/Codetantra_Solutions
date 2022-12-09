@@ -1,0 +1,53 @@
+## Fruitful Functions
+Q1. 1,2,3
+Q2. 
+```
+def largestinthree(a, b, c):
+	if num1>=num2 and num1>=num3:
+		result=num1
+		return num1
+	elif num2>=num3 and num2>=num1:
+		result=num2
+		return num2
+	else:
+		result=num3
+		return num3
+	# write your code here to find the largest number in a, b and c
+		
+num1 = int(input("Please enter a value for num1: "))
+num2 = int(input("Please enter a value for num2: "))
+num3 = int(input("Please enter a value for num3: "))
+
+result = largestinthree(num1, num2, num3)
+
+print("Largest of the values entered is", result)
+largestinthree(num1,num2,num3)
+```
+Q3. 
+```
+def largestintwo(a, b):
+	if num1>num2:
+		return num1
+	else:
+		return num2
+num1=int(input("num1: "))
+num2=int(input("num2: "))
+	
+# write your code here	
+
+result = largestintwo(num1, num2)
+print("largest:", result)
+largestintwo(num1,num2)
+```
+Q4.
+```
+import math
+def computeGCD(x, y):
+	a=math.gcd(x,y)
+	return a
+x=int(input("x: "))
+y=int(input("y: "))
+print(computeGCD(x,y))
+
+# write your code here
+```
