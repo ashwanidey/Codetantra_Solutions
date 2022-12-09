@@ -5,19 +5,19 @@ Video Link : https://www.youtube.com/watch?v=_5H-BXHWoa0 <br>
 Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 <br>
 ## 1. Unit 1 - Lesson1
-[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/1.%20Unit%201%20-%20Lesson%201.md)
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/Solutions/..1.%20Unit%201%20-%20Lesson%201.md)
 <br>
 ## 2. Unit 1 - Lesson 2
-[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/2.%20Unit%201%20-%20Lesson%202.md)
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/Solutions/..2.%20Unit%201%20-%20Lesson%202.md)
 
 ## 3. Unit 1 - Lesson 3
-[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/3.%20Unit%201%20-%20Lesson%203.md)
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/Solutions/3.%20Unit%201%20-%20Lesson%203.md)
 
 ## 4. Unit 1 - Lesson 4
-[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/4.%20Unit%201%20-%20Lesson%204.md)
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/Solutions/4.%20Unit%201%20-%20Lesson%204.md)
 
 ## 5. Unit 1 - Lesson 5
-[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/5.%20Unit%201%20-%20Lesson%205.md)
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/Solutions/5.%20Unit%201%20-%20Lesson%205.md)
 
 ## 6. Unit 1 - Lesson 6
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/6.%20Unit%201%20-%20Lesson%206.md)
