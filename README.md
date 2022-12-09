@@ -67,6 +67,7 @@ print(power.__doc__)
 # print docstring of power method
 ```
 <br>
+
 ### Identifiers and Keywords
 <br>
 Q1. 1,4,5
@@ -85,3 +86,4 @@ print('nonlocal is a keyword :',keyword.iskeyword('nonlocal') )
 print('False is a keyword :',keyword.iskeyword('False'))
 ```
 <br>
+
