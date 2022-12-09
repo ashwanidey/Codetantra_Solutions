@@ -44,7 +44,7 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/13.%20Unit%201%20-%20Lesson%2013.md)
 
 ## 14. Unit 2 - Lesson 1
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/14.%20Unit%202%20-%20Lesson%201.md)
 
 ## 15. Unit 2 - Lesson 2
 [``Solution``]()
