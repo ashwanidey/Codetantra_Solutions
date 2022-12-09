@@ -29,10 +29,10 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/8.%20Unit%201%20-%20Lesson%208.md)
 
 ## 9. Unit 1 - Lesson 9
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/9.%20Unit%201%20-%20Lesson%209.md)
 
 ## 10. Unit 1 - Lesson 10
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/10.%20Unit%201%20-%20Lesson%2010.md)
 
 ## 11. Unit 1 - Lesson 11
 [``Solution``]()
