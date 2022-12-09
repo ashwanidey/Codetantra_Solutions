@@ -154,15 +154,6 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 ## 56. Unit 4 - Lesson 17
 [``Solution``]()
 
-## 32. Unit 3 - Lesson 7
-[``Solution``]()
-
-## 32. Unit 3 - Lesson 7
-[``Solution``]()
-
-## 32. Unit 3 - Lesson 7
-[``Solution``]()
-
 ## 57. Unit 5 - Lesson 1
 [``Solution``]()
 
