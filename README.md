@@ -87,3 +87,8 @@ print('False is a keyword :',keyword.iskeyword('False'))
 ```
 <br>
 
+## 3. Unit 1 - Lesson 3
+<br>
+
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/3.%20Unit%201%20-%20Lesson%203.md)
+
