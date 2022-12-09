@@ -59,7 +59,7 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/18.%20Unit%202%20-%20Lesson%205.md)
 
 ## 19. Unit 2 - Lesson 6
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/19.%20Unit%202%20-%20Lesson%206)
 
 ## 20. Unit 2 - Lesson 7
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/20.%20Unit%202%20-%20Lesson%207.md)
