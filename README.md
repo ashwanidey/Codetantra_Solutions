@@ -155,49 +155,49 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/56.%20Unit%204%20-%20Lesson%2017.md)
 
 ## 57. Unit 5 - Lesson 1
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/57.%20Unit%205%20-%20Lesson%201.md)
 
 ## 58. Unit 5 - Lesson 2
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/58.%20Unit%205%20-%20Lesson%202.md)
 
 ## 59. Unit 5 - Lesson 3
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/59.%20Unit%205%20-%20Lesson%203.md)
 
 ## 60. Unit 5 - Lesson 4
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/60.%20Unit%205%20-%20Lesson%204.md)
 
 ## 61. Unit 5 - Lesson 5
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/61.%20Unit%205%20-%20Lesson%205.md)
 
 ## 62. Unit 5 - Lesson 6
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/62.%20Unit%205%20-%20Lesson%206.md)
 
 ## 63. Unit 5 - Lesson 7
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/63.%20Unit%205%20-%20Lesson%207.md)
 
 ## 64. Unit 6 - Lesson 1
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/64.%20Unit%206%20-%20Lesson%201.md)
 
 ## 65. Unit 6 - Lesson 2
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/65.%20Unit%206%20-%20Lesson%202.md)
 
 ## 66. Unit 6 - Lesson 3
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/66.%20Unit%206%20-%20Lesson%203.md)
 
 ## 67. Unit 6 - Lesson 4
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/67.%20Unit%206%20-%20Lesson%204.md)
 
 ## 68. Unit 6 - Lesson 5
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/68.%20Unit%206%20-%20Lesson%205.md)
 
 ## 69. Unit 6 - Lesson 6 
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/69.%20Unit%206%20-%20Lesson%206.md)
 
 ## 70. Unit 6 - Lesson 7
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/70.%20Unit%206%20-%20Lesson%207.md)
 
 ## 71. Miscellaneous and Advanced Topics
-[``Solution``]()
+[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/71.%20Miscellaneous%20and%20Advanced%20Topics.md)
 
 
 
