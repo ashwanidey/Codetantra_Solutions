@@ -32,7 +32,7 @@ Software Link : https://www.murgee.com/auto-typer/download/setup.exe
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/9.%20Unit%201%20-%20Lesson%209.md)
 
 ## 10. Unit 1 - Lesson 10
-[``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/10.%20Unit%201%20-%20Lesson%2010.md)
+[``Solution``](https://github.com/akash62835/Codetantra_Solutions/blob/main/Solutions/10.%20Unit%201%20-%20Lesson%2010.md)
 
 ## 11. Unit 1 - Lesson 11
 [``Solution``](https://github.com/ashwanidey/Codetantra_Solutions/blob/main/11.%20Unit%201%20-%20Lesson%2011.md)
